@@ -1,2 +1,2 @@
 # DE01
-Training in Data Engineer
+Training as a data engineer
